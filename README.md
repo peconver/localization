@@ -1,6 +1,7 @@
 # Getting data
 ## Create workspace
 
+
 ``` 
 WORKSPACE=~/robot_ws
 source /opt/ros/$ROS_DISTRO/setup.bash
